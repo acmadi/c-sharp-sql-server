@@ -1,0 +1,8 @@
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\bin\Debug\CRUD_SQL_SERVER.exe
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\bin\Debug\CRUD_SQL_SERVER.pdb
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\obj\Debug\CRUD_SQL_SERVER.Properties.Resources.resources
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\obj\Debug\CRUD_SQL_SERVER.csproj.GenerateResource.Cache
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\obj\Debug\CRUD_SQL_SERVER.exe
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\obj\Debug\CRUD_SQL_SERVER.pdb
+C:\Users\MADARA-UCHIHA\Documents\Visual Studio 2008\Projects\CRUD_SQL_SERVER\CRUD_SQL_SERVER\obj\Debug\CRUD_SQL_SERVER.MainForm.resources
